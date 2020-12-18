@@ -221,6 +221,9 @@ navigation section
   padding-bottom: 20px;
   max-height: 55px;
 }
+#brand-name{
+  color: white;
+}
 .custom-navbar .nav li a {
     color: #ffffff;
     font-size: 14px;
@@ -337,8 +340,6 @@ work section
 #work h3 {
   font-size: 18px;
 }
-
-
 
 /* ==========================================================================
 about section
