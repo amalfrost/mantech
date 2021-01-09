@@ -1,3 +1,3 @@
 <?php
-    include_once("mantech.html");
+    include_once("index.html");
 ?>
